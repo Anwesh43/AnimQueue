@@ -19,7 +19,7 @@
   AnimationMode.ROTATE_X
   AnimationMode.ROTATE_Y
   AnimationMode.ROTATE_Z
-  AnimationMode.SCALE_XY(4)
+  AnimationMode.SCALE_XY
   AnimationMode.SCALE_X
   AnimationMode.SCALE_Y
   AnimationMode.TRANSLATE_X
